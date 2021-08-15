@@ -159,5 +159,5 @@ toggle::before{
     color:#091921;
 }
 .light .toggleClass::before{
-    content:'Click Here';
+    content:'Dark Mode';
 }
